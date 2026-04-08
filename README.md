@@ -28,3 +28,11 @@ Business Insight Generation
 Data Storytelling
 # 🔗 Dashboard Link
 https://public.tableau.com/authoring/IntegratedE-CommerceDashboard/MARKETINGmain#1
+
+# 📌 Conclusion
+
+This dashboard provides a comprehensive view of e-commerce performance and helps identify opportunities to improve marketing efficiency and operational processes.
+
+# ⭐ Author
+
+Jyoti Dewangan
